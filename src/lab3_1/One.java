@@ -8,9 +8,17 @@ public class One {
 
     // конструктор класу
     public One(double a, double b, double c) {
-        super();
         this.a = a;
         this.b = b;
         this.c = c;
     }
+
+    public void print () {
+        System.out.println("Клас One: a = " + a + ", b = " + b + ", c = " + c);
+    }
+
+    public double sum () {
+        return a + b + c;
+    }
+
 }

@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="163454a8-dc87-48fe-ba7e-3257bf9d0c40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab2_2/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2_2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2_2/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2_2/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab2_3/task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3_1/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3_1/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3_1/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3_1/One.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3_1/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3_1/Three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3_1/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3_1/Two.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MainClass.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
@@ -68,6 +68,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="One" />
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739230293133</updated>
-      <workItem from="1739230301124" duration="2573000" />
+      <workItem from="1739230301124" duration="4582000" />
     </task>
     <servers />
   </component>

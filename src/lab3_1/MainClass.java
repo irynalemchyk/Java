@@ -2,9 +2,17 @@ package lab3_1;
 
 public class MainClass {
     public static void main(String[] args) {
-        // об'єкти класів зі значеннями
-        One newone = new One(11.1, 12.2, 13.3);
-        Two newtwo = new Two(14.4, 15.5, 16.6);
-        Three newthree = new Three (17.7, 18.8, 19.9);
+        One obj1 = new One(1.1, 2.2, 3.3);
+        Two obj2 = new Two(4.4, 5.5, 6.6);
+        Three obj3 = new Three(7.7, 8.8, 9.9);
+
+        obj1.print();
+        System.out.println("Сума у класі One: " + obj1.sum());
+
+        obj2.print();
+        System.out.println("Сума у класі Two: " + obj2.sum());
+
+        obj3.print();
+        obj3.printOne(obj1);
     }
 }
