@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="163454a8-dc87-48fe-ba7e-3257bf9d0c40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java_uni.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2_1/task2_1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2_1/task2_1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2_1/task2_1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2_3/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3_1/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3_1/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3_1/Three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3_1/Two.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2_2/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2_2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2_2/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2_2/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2_3/task.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,14 +44,21 @@
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2ss36AQSdV9E1p6Hiv68GQb4z1z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Rebasing master",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -73,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739230293133</updated>
-      <workItem from="1739230301124" duration="355000" />
+      <workItem from="1739230301124" duration="2573000" />
     </task>
     <servers />
   </component>
